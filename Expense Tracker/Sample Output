@@ -1,0 +1,45 @@
+========================================
+        EXPENSE TRACKER
+========================================
+
+1. Add Expense
+2. View Expenses
+3. View Total Expense
+4. Exit
+
+Enter your choice: 1
+
+Enter Expense Name: Food
+Enter Amount: 250
+
+Expense added successfully!
+
+----------------------------------------
+
+Enter your choice: 1
+
+Enter Expense Name: Travel
+Enter Amount: 150
+
+Expense added successfully!
+
+----------------------------------------
+
+Enter your choice: 2
+
+Expense List
+
+Food - ₹250.00
+Travel - ₹150.00
+
+----------------------------------------
+
+Enter your choice: 3
+
+Total Expense: ₹400.00
+
+----------------------------------------
+
+Enter your choice: 4
+
+Thank you for using Expense Tracker!

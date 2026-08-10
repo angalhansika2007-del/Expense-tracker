@@ -1,0 +1,50 @@
+Test Case 1
+
+Input:
+Choice = 1
+Expense Name = Food
+Amount = 250
+
+Expected Output:
+Expense added successfully!
+
+-------------------------------------
+
+Test Case 2
+
+Input:
+Choice = 2
+
+Expected Output:
+Displays all expenses.
+
+-------------------------------------
+
+Test Case 3
+
+Input:
+Choice = 3
+
+Expected Output:
+Displays the total expense amount.
+
+-------------------------------------
+
+Test Case 4
+
+Input:
+Choice = 1
+Amount = abc
+
+Expected Output:
+Please enter a valid amount.
+
+-------------------------------------
+
+Test Case 5
+
+Input:
+Choice = 5
+
+Expected Output:
+Invalid choice! Please try again.
